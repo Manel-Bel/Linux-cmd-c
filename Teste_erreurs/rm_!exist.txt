@@ -1,0 +1,10 @@
+mkdir Cours
+mkdir TD
+mkdir TP
+cd TD
+touch ls
+touch toto
+rm toti
+
+
+

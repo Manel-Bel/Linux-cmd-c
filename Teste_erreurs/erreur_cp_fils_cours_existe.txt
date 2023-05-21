@@ -1,0 +1,17 @@
+mkdir Cours
+cd Cours
+mkdir Td
+mkdir Ue
+touch kk
+cd ..
+mkdir iii
+cd iii
+pwd
+mkdir dddd
+mkdir llll
+touch kk
+cd ..
+cp /Cours /iii
+print
+
+
