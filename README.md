@@ -13,3 +13,11 @@ le projet est simple , il s'agit de recree les commandes en generale de linux en
 le resultat de l'execution ne vas pas cree de nouveaux dossiers sur votre oridinateaur , c'est une option qui se rajoutera à la fin 
 
 il faut passer un fichier comme entree avec toutes les commandes 
+il y'a pour exemple, un dossier de testes qui generes des erreurs (commandes non valide ext)
+
+et un autre dossier pour tester et voir les différentes sorties possibles
+
+
+penser à utiliser  : make clean 
+    dans le terminal si tout changement est effectué
+
